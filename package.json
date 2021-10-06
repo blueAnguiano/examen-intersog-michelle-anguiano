@@ -7,7 +7,8 @@
     "test": "test"
   },
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "nodemon": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,12 @@
   "bugs": {
     "url": "https://github.com/blueAnguiano/examen-intersog-michelle-anguiano/issues"
   },
-  "homepage": "https://github.com/blueAnguiano/examen-intersog-michelle-anguiano#readme"
+  "homepage": "https://github.com/blueAnguiano/examen-intersog-michelle-anguiano#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-http-context": "^1.2.4",
+    "nodemon": "^2.0.13"
+  }
 }
