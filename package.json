@@ -1,0 +1,22 @@
+{
+  "name": "examen-intersog-michelle-anguiano",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blueAnguiano/examen-intersog-michelle-anguiano.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blueAnguiano/examen-intersog-michelle-anguiano/issues"
+  },
+  "homepage": "https://github.com/blueAnguiano/examen-intersog-michelle-anguiano#readme"
+}
